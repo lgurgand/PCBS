@@ -1,4 +1,4 @@
-# PCBS : Effects of Noise Letters 
+# PCBS : Flanke Task
 
 
 The Flanker Task is a task that measures cognitive control (which is the ability to ignore irrelevant thoughts or stimuli in order to do a task correctly), that was first published by Eriksen and Eriksen in 1974. The goal of the study is to understand the effect of noise on the identification of a target.
