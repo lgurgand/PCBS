@@ -10,5 +10,6 @@ Subjects are often slower and less accurate in the incongruent condition.
 Be careful when running the code, make sure that your working directory is where the pictures are.
 
 You can find a report of the analysis of the results (https://github.com/lgurgand/PCBS-Flanker-Task/blob/a867806e6ce80580d3b727652c902f746fb92606/PCBS_Flanker_task_ANALYSIS.pdf). The analysis were done using the software R. The experiment was done on 6 subjects, and 5 out of the 6 did show a significantely higher reaction time in the incongruent trials than in the congruent trials, as expected. 
+![alt text](https://github.com/lgurgand/PCBS-Flanker-Task/PCBS_results.png)
 
 I have mostly used R in the past and I had never used it to run experiments, only to analyze data. Thanks to this course, I have learned how to create experiments which can be very useful when working in cognitive science. 
