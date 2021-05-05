@@ -19,7 +19,7 @@ You can find a report of the analysis of the results (https://github.com/lgurgan
 
 This means that it requires more time to respond when you have to have some cognitive control involved and have to ignore the irrelevant informations (the arrows pointing in opposite directions as the target arrow).
 
-![Graph of the results](https://github.com/lgurgand/PCBS-Flanker-Task/blob/main/PCBS_results.png)
+![Graph of the results](https://github.com/lgurgand/PCBS-Flanker-Task/blob/main/PCBS_results_R.png)
 
 ## Previous coding experience, PCBS experience
 
