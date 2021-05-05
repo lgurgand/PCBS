@@ -17,6 +17,8 @@ Be careful when running the code, make sure that your working directory is where
 
 You can find a report of the analysis of the results (https://github.com/lgurgand/PCBS-Flanker-Task/blob/a867806e6ce80580d3b727652c902f746fb92606/PCBS_Flanker_task_ANALYSIS.pdf). The analysis were done using the software R. The experiment was done on 6 subjects, and 5 out of the 6 did show a significantely higher reaction time in the incongruent trials than in the congruent trials, as expected. 
 
+This means that it requires more time to respond when you have to have some cognitive control involved and have to ignore the irrelevant informations (the arrows pointing in opposite directions as the target arrow).
+
 ![Graph of the results](https://github.com/lgurgand/PCBS-Flanker-Task/blob/main/PCBS_results.png)
 
 ## Previous coding experience, PCBS experience
