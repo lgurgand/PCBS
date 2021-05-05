@@ -32,7 +32,7 @@ pictures = {"lcong": expyriment.stimuli.Picture("left_congruent.png"),"rcong": e
 cue = stimuli.FixCross(size=(50, 50), line_width=4)
 blankscreen = stimuli.BlankScreen()
 instructions = stimuli.TextScreen("Instructions",
-    f"""When you'll see a set of arrows, your task to decide, as quickly as possible, whether the middle arrow points the left or the right.
+    f"""When you'll see a set of arrows, your task is to decide, as quickly as possible, whether the middle arrow points the left or the right.
 
     if it points the left, press '{LEFT_RESPONSE}'
 
