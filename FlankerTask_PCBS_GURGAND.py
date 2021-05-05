@@ -12,8 +12,8 @@ from expyriment import design, control, stimuli
 import expyriment
 import os
 
-#change your working directory to the place the picture are:
-os.chdir('c:\\users\\utilisateur\\desktop\\lilas')
+#Make sure that your working directory is the place the picture are
+#os.chdir('c:\\users\\utilisateur\\desktop\\lilas')
 
 MAX_RESPONSE_DELAY = 2000
 LEFT_RESPONSE = 'Left arrow'
