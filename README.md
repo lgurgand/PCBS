@@ -23,4 +23,4 @@ This means that it requires more time to respond when you have to have some cogn
 
 ## Previous coding experience, PCBS experience
 
-I have mostly used R in the past and I had never used Python (or R) to run experiments, only to analyze data. Thanks to this course, I have learned how to create experiments which can be very useful when working in cognitive science. I feel like this cours ewas very complete but it was also a lot of work, 3 hours per week is a lot for so few ECTS. 
+I have mostly used R in the past and I had never used Python (or R) to run experiments, only to analyze data. Thanks to this course, I have learned how to create experiments which can be very useful when working in cognitive science. I feel like this course was very complete but it was also a lot of work, 3 hours per week is a lot for so few ECTS. 
